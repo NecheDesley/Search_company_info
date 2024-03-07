@@ -38,7 +38,7 @@ def main():
         else:
             print('Insira o nome de uma empresa')
     except Exception as e:
-        print('Ocorreu um erro: ', e)
+        print('whats the value: ', e)
 
 if __name__ == "__main__":
     main()
